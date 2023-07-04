@@ -1,5 +1,6 @@
 ### 👨‍💻 About Me:
-I’m currently working on Fintech company, familiar with Python & Go.
+I am currently employed at a **Fintech** company where I specialize in utilizing **Python** and **Go** programming languages.  
+With my extensive experience and expertise in these languages, I actively contribute to the development and optimization of our financial technology solutions.
 ### 💻 Tech Stack:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) </a>
 <a href="https://golang.org" target="_blank" rel="noreferrer"> ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) </a>
