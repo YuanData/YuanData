@@ -12,5 +12,4 @@ With my extensive experience and expertise in these languages, I actively contri
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) </a>
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) </a>
 <a href="https://redis.io" target="_blank" rel="noreferrer"> ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) </a>
-<a href="https://grafana.com/" target="_blank" rel="noreferrer"> ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) </a>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
