@@ -1,7 +1,8 @@
-### 👨‍💻 About Me:
-I am currently employed at a **Fintech** company where I specialize in utilizing **Python** and **Go** programming languages.  
-With my extensive experience and expertise in these languages, I actively contribute to the development and optimization of our financial technology solutions.
-### 💻 Tech Stack:
+### 關於作者:
+曾在Fintech科技公司擔任**SDET**，負責多項自動化測試專案，運用**Go**、pytest及Jenkins進行自動化測試與專案CI/CD。
+在測試框架完善、測試覆蓋率提升及Code Review等方面貢獻卓越，並積極分享技術知識，致力於團隊發展。
+
+### 💻
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </a>
 <a href="https://golang.org" target="_blank" rel="noreferrer"> ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) </a>
 <a href="https://chat.openai.com" target="_blank" rel="noreferrer"> ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) </a>
