@@ -4,7 +4,3 @@ Fintech科技公司擔任**SDET**，負責多項自動化測試專案，運用**
 
 ### 技能:
 ![](https://skillicons.dev/icons?i=go,python,mongodb,postgres,gcp,docker,github,jenkins&theme=light&perline=10)
-  
-<br>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
