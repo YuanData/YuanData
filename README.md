@@ -3,4 +3,8 @@
 
 **技能**：<img src="https://skillicons.dev/icons?i=go,python,mongodb,postgres,gcp,docker,github,jenkins&theme=light" style="height:22px;">
 
-![](https://github-readme-stats.vercel.app/api/?username=YuanData&count_private=true&show_icons=true&theme=vue-dark&hide=issues)
+<a href="#" ><img align="center" 
+src="https://github-readme-stats.vercel.app/api/?username=YuanData&count_private=true&show_icons=true&theme=vue-dark&hide=issues" /></a>
+<a href="#" ><img src="https://github-readme-stats.vercel.app/api" width="20" height="0" /></a>
+<a href="#" ><img align="center" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuanData&hide=Jupyter+Notebook,R,CSS&layout=compact&theme=vue-dark" /></a>
