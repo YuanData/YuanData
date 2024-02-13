@@ -5,6 +5,6 @@
 
 <a href="#" ><img align="center" 
 src="https://github-readme-stats.vercel.app/api/?username=YuanData&count_private=true&show_icons=true&theme=vue-dark&hide=issues&rank_icon=percentile&hide_title=true" /></a>
-<a href="#" onclick="return false;"><img src="https://skillicons.dev/icons?i=go" width="20" height="0" /></a>
+<a href="#" onclick="return false;"><img src="https://komarev.com/ghpvc/?username=YuanData&style=for-the-badge" width="20" height="0" /></a>
 <a href="#" ><img align="center" 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuanData&hide=Jupyter+Notebook,R,CSS&layout=compact&theme=vue-dark&hide_title=true" /></a>
